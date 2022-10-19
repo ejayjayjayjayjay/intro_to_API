@@ -5,6 +5,7 @@
 // npm init
 // add .gitignore
 // npm install express
+// 9f7e9e0b314b24c7c6eaf82ebc88862a - API KEY WEATHER APP
 
 
 const express = require('express')
